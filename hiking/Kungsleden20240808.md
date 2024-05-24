@@ -22,7 +22,7 @@ https://kirunalapland.se/en/hiking/climb-kebnekaise-summer/
 *don't look this part, we can decide it together*
 
 ```ad-info
-Aug 9 11 leave: 28 km
+Aug 9 11 leave: 18 km -20
 Aug 10: 30 km
 Aug 11: 30 km
 Aug 12: 22 km
@@ -35,7 +35,7 @@ Aug 14 back
 		宅做帐篷
 		睡袋
 	食物/水源：
-		热水（气罐，煮锅，路头，滤水器）
+		热水（气罐，煮锅，炉头，滤水器）
 	冷食+蔬菜
 	行走：2套护膝，防纱丝袜，新鞋垫
 	背负：加装网兜

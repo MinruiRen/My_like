@@ -83,7 +83,7 @@ Aug 14 back
 [Stay at an STF Mountain cabin - Swedish Tourist Association](https://www.swedishtouristassociation.com/our-accommodation-types/stay-stf-mountain-cabin/)
 
 照顾猫猫： 8月6号-8月15？
-飞机票：AMS - ARN ((Aug 7 moring)
+飞机票：AMS - ARN ((Aug 7 moring 11:00 - 13:05 ARN )
 火车票：√ Stockholm ( (Aug 7 18:00 )-Kiruna   Kiruna to Nikkaluokta by bus via Fjällräven
 [The highly popular Trekkers Train will keep rolling in 2024  (qondor.com)](https://provisittravel.qondor.com/ParticipantWeb/Registration/15208)
 
@@ -93,9 +93,9 @@ Aug 14 back
 ![[Pasted image 20240517141123.png]]
 需要托运的东西：手机充电器，手表充电器，照相机
 return
-飞机票: ARN- AMS (Aug 15 afternoon)
+飞机票: ARN- AMS (Aug 15 afternoon 16:15 - 18:15 or 18:50 - 20:50)
 火车票：Abisko tourist station (Aug 14 18:30) to Stockholm （Aug 15 9:30）
- 回来那天
+ 回来那天 
 
 
 ### 蛋白质来源

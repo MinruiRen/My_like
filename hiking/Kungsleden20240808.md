@@ -63,7 +63,7 @@ https://kirunalapland.se/en/hiking/climb-kebnekaise-summer/
 5. Kennemerduinen National Park 
 6. Veluwezoom National Park June 22-23
 7. mullerthal July 12-14
-8. Loonse en Drunense Duinen National Park July 27 28 
+8. Loonse en Drunense Duinen National Park July 27-28 
 
 *don't look this part, we can decide it together*
 

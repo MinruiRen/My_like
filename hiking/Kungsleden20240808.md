@@ -11,28 +11,17 @@ Kebnekaise
 https://www.thebestviewpoints.com/2024/02/18/peak-26-sweden-kebnekaise/
 https://kirunalapland.se/en/hiking/climb-kebnekaise-summer/
 
-训练计划：
-– zondag 3 maart 2024 Castricum (duin en strand route)  
-– zondag 14 april 2024 (Training te Amsterdam e.o. en dan gaan we langs de Fjällräven shop. Daar is het mogelijk om met 20% korting je uitrusting compleet te maken);  
-– 24 t/m 26 mei 2024 wandelweekend te Overijssel/ Gelderland (incl. overnachtingen, ontbijt, lunch en diner);  
-– zaterdag 13 juli 2024 Hilversum  
-– zondag 15 december 2024 Amsterdam (H & A reünie walk).
 ### 训练建议
 
 1. **增加有氧运动时间**：
-    
     - 尽量每天增加有氧运动的时间，比如延长椭圆机和游泳的时间。
 2. **高强度间歇训练（HIIT）**：
-    
     - 每周进行1-2次高强度间歇训练，可以有效提高新陈代谢和卡路里消耗。
 3. **增加力量训练**：
-    
     - 增加力量训练的频率，每周进行2-3次，可以帮助增加肌肉质量，从而提高基础代谢率。
 4. **多样化训练**：
-    
     - 保持训练的多样性，可以避免肌肉适应同样的训练模式，同时减少受伤的风险。
 5. **饮食调整**：
-    
     - 确保饮食均衡，多摄入高蛋白质、低脂肪和低碳水化合物的食物，有助于减重和肌肉恢复。
 
 ### 计算每日和每周消耗的卡路里
@@ -40,20 +29,13 @@ https://kirunalapland.se/en/hiking/climb-kebnekaise-summer/
 1公斤脂肪大约相当于7700卡路里（kcal）。因此，要减去10公斤脂肪，你需要消耗： 10公斤×7700kcal=77000kcal10公斤×7700kcal=77000kcal
 
 ### 每周目标
-
 在10周内减去10公斤，你需要每周消耗： 77000kcal÷10周=7700kcal/周77000kcal÷10周=7700kcal/周
-
 ### 每日目标
-
 每天需要消耗： 7700kcal/周÷7天=1100kcal/天7700kcal/周÷7天=1100kcal/天
-
 ### 结合饮食和运动
-
 为了达到每天1100 kcal的赤字，可以通过以下两种方式结合实现：
-
 1. **减少饮食摄入：** 减少每日摄入的热量。比如，减少500-600 kcal。
 2. **增加运动消耗：** 通过运动消耗额外的500-600 kcal。
-
 ### 每周锻炼计划
 
 根据你的描述，你目前的锻炼方式已经很好了，以下是一个建议的每周锻炼计划，帮助你实现每天额外消耗500-600 kcal：
@@ -63,40 +45,25 @@ https://kirunalapland.se/en/hiking/climb-kebnekaise-summer/
 - **椭圆机：** 30-45分钟（大约消耗300-400 kcal）
 - **游泳：** 30分钟（大约消耗200-300 kcal）
 - **普拉提或力量训练：** 30分钟（大约消耗150-250 kcal）
-
 #### 周末
-
 - **长距离徒步：** 每次徒步15公里以上（大约消耗1000-1500 kcal）
 - **额外锻炼：** 可以增加一些低强度的活动，比如慢跑或骑行，30分钟（大约消耗200-300 kcal）
-
 ### 饮食建议
-
 确保你的饮食中包含足够的营养，以支持高强度的训练和恢复。以下是一些建议：
-
 - **增加蛋白质摄入：** 每餐包含瘦肉、鱼、蛋、豆类等优质蛋白质。
 - **健康的脂肪：** 食用坚果、种子、鳄梨和橄榄油等健康脂肪。
 - **减少精制糖和加工食品：** 尽量减少摄入糖分高和加工食品。
 - **多吃蔬菜和水果：** 每天摄入大量的蔬菜和适量的水果，以确保摄入足够的维生素和矿物质。
 - **控制碳水化合物：** 选择全谷物、糙米和燕麦等低GI碳水化合物，避免过多的精制碳水化合物。
 
-1. **Loonse en Drunense Duinen National Park**：
-    
-    - 这个地方被称为“荷兰的撒哈拉沙漠”，有多种徒步路线可选，地形多样，有助于增强耐力。
-2. **Veluwezoom National Park**：
-    
-    - 荷兰最古老的国家公园，有山丘、森林和沙丘，非常适合进行高难度的徒步训练。
-3. **De Biesbosch National Park**：
-    
-    - 位于莱顿南部的湿地保护区，有各种水路和步道，可以挑战长距离徒步。
-4. **Utrechtse Heuvelrug National Park**：
-    
-    - 拥有美丽的山脊和森林，步道的起伏比较大，可以模拟山地徒步的感觉。
-5. **Hoge Veluwe National Park**：
-    
-    - 这里的徒步路线多样，有森林、草原和沙丘，可以提供不同的地形挑战。
-6. **Kennemerduinen National Park**：
-    
-    - 位于海岸线附近，有沙丘、森林和海滨步道，可以提供多样的徒步体验。
+1. Amsterdam Bos 21 Km June 1
+2. Bezoekerscentrum De Hoep, ⛉ Johannisweg 2, 1901 NX Castricum 
+3. Meertje brug Ankeveensepad, Ankeveensepad 1217, Hilversum 
+4. Meertje brug Ankeveensepad 
+5. Kennemerduinen National Park 
+6. Veluwezoom National Park June 22-23
+7. mullerthal July 12-14
+8. Loonse en Drunense Duinen National Park July 27 28 
 
 *don't look this part, we can decide it together*
 

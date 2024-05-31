@@ -56,16 +56,16 @@ https://kirunalapland.se/en/hiking/climb-kebnekaise-summer/
 - **多吃蔬菜和水果：** 每天摄入大量的蔬菜和适量的水果，以确保摄入足够的维生素和矿物质。
 - **控制碳水化合物：** 选择全谷物、糙米和燕麦等低GI碳水化合物，避免过多的精制碳水化合物。
 
-1. Amsterdam Bos 21 Km June 1
+1. Amsterdam Bos 21 Km June 1 
 2. Bezoekerscentrum De Hoep, ⛉ Johannisweg 2, 1901 NX Castricum 
 3. Meertje brug Ankeveensepad, Ankeveensepad 1217, Hilversum 
 4. Meertje brug Ankeveensepad 
 5. Kennemerduinen National Park 
-6. Veluwezoom National Park June 22-23
-7. mullerthal July 12-14
+6. Veluwezoom National Park June 22-23 
+7. mullerthal July 12-14 
 8. Loonse en Drunense Duinen National Park July 27-28 
 
-*don't look this part, we can decide it together*
+*don't look this part, we can decide it together* 
 
 ```ad-info
 Aug 9 11 leave: 18 km -20
@@ -94,7 +94,7 @@ Aug 14 back
 [Stay at an STF Mountain cabin - Swedish Tourist Association](https://www.swedishtouristassociation.com/our-accommodation-types/stay-stf-mountain-cabin/)
 
 照顾猫猫： 8月6号-8月15？
-飞机票：AMS - ARN ((Aug 7 moring 11:00 - 13:05 ARN )
+飞机票：AMS - ARN ((Aug 7 morning 11:00 - 13:05 ARN )
 火车票：√ Stockholm ( (Aug 7 18:00 )-Kiruna   Kiruna to Nikkaluokta by bus via Fjällräven
 [The highly popular Trekkers Train will keep rolling in 2024  (qondor.com)](https://provisittravel.qondor.com/ParticipantWeb/Registration/15208)
 
@@ -182,5 +182,6 @@ return
 - 扎营地点：在Abisko周围找到一个合适的露营地点，或者入住当地的露营地或旅馆。
 - 备注：这一天的徒步标志着你旅程的结束，你可以庆祝自己的成就并享受美丽的Abisko风光。
 
-Nikkaluokta -- Laddjujavri 坐船
-Kebnekaise山脚下
+14：30 Nikkaluokta -- Laddjujavri 坐船
+Kebnekaise 山脚下
+

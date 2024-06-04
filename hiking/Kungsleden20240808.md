@@ -11,18 +11,6 @@ Kebnekaise
 https://www.thebestviewpoints.com/2024/02/18/peak-26-sweden-kebnekaise/
 https://kirunalapland.se/en/hiking/climb-kebnekaise-summer/
 
-
-*don't look this part, we can decide it together* 
-
-```ad-info
-Aug 9 11 leave: 18 km -20
-Aug 10: 30 km
-Aug 11: 30 km
-Aug 12: 22 km
-Aug 13: mountain or back early or slow the plan a bit
-Aug 14 back
-```
-
 装备：
 	睡眠：
 		宅做帐篷
@@ -41,68 +29,26 @@ Aug 14 back
 [Stay at an STF Mountain cabin - Swedish Tourist Association](https://www.swedishtouristassociation.com/our-accommodation-types/stay-stf-mountain-cabin/)
 
 照顾猫猫： 8月6号-8月15？
-飞机票：AMS - ARN ((Aug 7 morning 11:00 - 13:05 ARN )
+飞机票：AMS - ARN ((Aug 7 morning 11:00 - 13:05 ARN ) （no-reply@flysas.com）
 火车票：√ Stockholm ( (Aug 7 18:00 )-Kiruna   Kiruna to Nikkaluokta by bus via Fjällräven
 [The highly popular Trekkers Train will keep rolling in 2024  (qondor.com)](https://provisittravel.qondor.com/ParticipantWeb/Registration/15208)
-
 ![[8c90af649628331eb86d3488d3b9992.jpg]]
 当地住宿8 号: SPiS Hotel & Hostel  Bergmästaregatan 7,98133 Kiruna, Sweden
-
 ![[Pasted image 20240517141123.png]]
 需要托运的东西：手机充电器，手表充电器，照相机
 return
-飞机票: ARN- AMS (Aug 15 afternoon 16:15 - 18:15 or 18:50 - 20:50)
-火车票：Abisko tourist station (Aug 14 18:30) to Stockholm （Aug 15 9:30）
+火车票：Abisko to EVE
+飞机票: EVE- AMS (Aug 15 afternoon 10:15 - 18:15 )
  回来那天 
 
-### 第一天：Nikkaluokta到Kebnekaise山脚下
-
-- 出发时间：早晨
-- 距离：约15公里
-- 行走时间：4-6小时
-- 路线描述：你可以开始从Nikkaluokta出发，沿着标志好的路线徒步到达Kebnekaise山脚下。
-- 扎营地点：在Kebnekaise山脚下找到一个适合扎营的地方。
-- 备注：这一天的徒步比较轻松，你可以享受美丽的景色并适应徒步的节奏。
-
-### 第二天：Kebnekaise山脚下到Sälka山屋
-
-- 出发时间：早晨
-- 距离：约20公里
-- 行走时间：6-8小时
-- 路线描述：继续沿着徒步道往北行走，穿过壮丽的山谷和峡谷，直到达到Sälka山屋。
-- 扎营地点：在Sälka山屋附近的露营地点安营扎寨。
-- 备注：这一天的徒步距离较长，但沿途的风景绝对值得一看。
-
-### 第三天：Sälka(CP3 refill gas and food)山屋到Singi (cp 2)山屋
-
-- 出发时间：早晨
-- 距离：约15-20公里
-- 行走时间：5-7小时
-- 路线描述：从Sälka山屋出发，继续向北穿越山谷和高地，前往Singi山屋。
-- 扎营地点：在Singi山屋附近的露营地点安营扎寨。
-- 备注：这一段路线可能有些挑战，但你会在途中发现许多壮丽的景色和自然景观。
-
-
-### 第四天：Singi山屋到Kebnekaise山区南部
-
-- 出发时间：早晨
-- 距离：约20-25公里
-- 行走时间：6-8小时
-- 路线描述：从Singi山屋出发，徒步穿越辽阔的高山荒地，前往Kebnekaise山区南部。
-- 扎营地点：在Kebnekaise山区南部找到一个适合露营的地点。
-- 备注：这一段路程可能是整个徒步的挑战之一，但你会被壮丽的自然景观所震撼。
-
-### 第五天：Kebnekaise山区南部到Abisko
-
-- 出发时间：早晨
-- 距离：约20-25公里
-- 行走时间：6-8小时
-- 路线描述：从Kebnekaise山区南部出发，徒步穿越最后一段山地和平原地带，最终到达Abisko。
-- 扎营地点：在Abisko周围找到一个合适的露营地点，或者入住当地的露营地或旅馆。
-- 备注：这一天的徒步标志着你旅程的结束，你可以庆祝自己的成就并享受美丽的Abisko风光。
-
-14：30 Nikkaluokta -- Laddjujavri 坐船
-Kebnekaise 山脚下
+紧急电话 073-832 41 20
+Aug 8th Högalidskolan check in  12pm, get food for first 3 days, a map, passport, gas,
+Aug 9th 1:30-2:30pm take bus  
+	14：30  **Nikkaluokta** (food & gas) -- Laddjujavri 坐船 - **Kebnekaise** 13 km + 6 km
+Aug 10th **Kebnekaise** --  **Singi** -- **Sälka** 26 km
+Aug 11th  **Sälka** （food & gas) -- **Tjäktja** -- **Alesjaure**  25 km
+Aug 12th **Alesjaure** (food & gas) （坐船）-- **Kieron**   15 km +4 km
+Aug 13th  **Kieron** -- **Abisko** 20 km 
 
 
 ### 训练建议

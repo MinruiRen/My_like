@@ -4,7 +4,7 @@ https://experience.fjallraven.com/classic/sweden
 [2018 Fjällräven Classic Sweden (国王小径极圈健行) 全纪录 (bbkz.com)](https://www.bbkz.com/forum/showthread.php?t=10189001)
 [瑞典北极圈五天小旅行~国王小径(Kungsleden / The King's trail) (bbkz.com)](https://www.bbkz.com/forum/showthread.php?t=10539927)
 官方： [Wandelroute in Zweden: Kungsleden | Visit Sweden](https://visitsweden.nl/te-doen/natuur-buitenleven/wandelen/kungsleden-de-koningsroute-het-noorden/)
-
+超级详细攻略，以后实验记录请按照这个规格写：[狂牛部落格: 2018 Fjällräven Classic Sweden (crazycowcow.blogspot.com)](https://crazycowcow.blogspot.com/2018/08/2018-fjallraven-classic-sweden.html)
 [背包客栈 (bbkz.com)](https://www.bbkz.com/forum/?s=3790bdaee8d5da28f3e7a2d4241e9a97)
 路线： Fjällräven Nikkaluokta - 
 Kebnekaise
@@ -42,13 +42,17 @@ return
  回来那天 
 
 紧急电话 073-832 41 20
+
 Aug 8th Högalidskolan check in  12pm, get food for first 3 days, a map, passport, gas,
 Aug 9th 1:30-2:30pm take bus  
 	14：30  **Nikkaluokta** (food & gas) -- Laddjujavri 坐船 - **Kebnekaise** 13 km + 6 km
-Aug 10th **Kebnekaise** --  **Singi** -- **Sälka** 26 km
-Aug 11th  **Sälka** （food & gas) -- **Tjäktja** -- **Alesjaure**  25 km
-Aug 12th **Alesjaure** (food & gas) （坐船）-- **Kieron**   15 km +4 km
+Aug 10th **Kebnekaise** -- Kebnekaise TOP--  **Singi**  9 + 9 = 18 km
+Aug 11th **Singi**-- **Sälka** （food & gas) --  **Tjäktja** 12+13  km
+alltrails map: 
+![[IMG_20230820_015032_377.jpg]]
+Aug 12th  **Tjäktja** -- **Alesjaure** -- **Abiskojaure** (food & gas) （坐船 _Roland Enoksson, Alesjaure Transport 070-6343439 eller 072-7536798）-- **Kieron**   12+ 21 km  + 15km+4 km
 Aug 13th  **Kieron** -- **Abisko** 20 km 
+alltrails map: https://www.alltrails.com/en-gb/explore/trail/sweden/norrbotten/fjallraven-classic--2?mobileMap=false&ref=sidebar-static-map
 
 体里不匹配plan:
 
@@ -66,17 +70,8 @@ Aug 13th  **Kieron** -- **Abisko** 20 km
 ### 计算每日和每周消耗的卡路里
 
 1公斤脂肪大约相当于7700卡路里（kcal）。
-每天需要消耗： 7700kcal/周÷7天=1100kcal/天7700kcal/周÷7天=1100kcal/天
-### 每周锻炼计划
-根据你的描述，你目前的锻炼方式已经很好了，以下是一个建议的每周锻炼计划，帮助你实现每天额外消耗500-600 kcal：
-#### 周一至周五
-- **椭圆机：** 30-45分钟（大约消耗300-400 kcal）
-- **游泳：** 30分钟（大约消耗200-300 kcal）
-- **普拉提或力量训练：** 30分钟（大约消耗150-250 kcal）
-#### 周末
-- **长距离徒步：** 每次徒步15公里以上（大约消耗1000-1500 kcal）
-- **额外锻炼：** 可以增加一些低强度的活动，比如慢跑或骑行，30分钟（大约消耗200-300 kcal）
-### 饮食建议
+每天需要消耗： 7700kcal/周÷7天=1100kcal/天7700kcal/周
+
 确保你的饮食中包含足够的营养，以支持高强度的训练和恢复。以下是一些建议：
 - **增加蛋白质摄入：** 每餐包含瘦肉、鱼、蛋、豆类等优质蛋白质。
 - **健康的脂肪：** 食用坚果、种子、鳄梨和橄榄油等健康脂肪。
@@ -150,7 +145,6 @@ Aug 13th  **Kieron** -- **Abisko** 20 km
     - **手臂放低并向前摆动**：手臂与肩膀向后扩展，展开胸部，使呼吸顺畅。
 4. **臀部姿势**：
     - **臀部收在身体正下方**：感觉臀部在身体下方滚动，保持稳定。
-
 
 
 1. Amsterdam Bos 21 Km June 1 

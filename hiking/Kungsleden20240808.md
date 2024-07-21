@@ -1,4 +1,4 @@
-plan: 2024/08/08-08/16
+
 https://experience.fjallraven.com/classic/sweden
 2023： [瑞典国王之路（Kungsleden）攻略：北极圈六天五夜徒步感受荒野之美 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/647151266)
 [2018 Fjällräven Classic Sweden (国王小径极圈健行) 全纪录 (bbkz.com)](https://www.bbkz.com/forum/showthread.php?t=10189001)
@@ -34,7 +34,7 @@ https://kirunalapland.se/en/hiking/climb-kebnekaise-summer/
 ![[8c90af649628331eb86d3488d3b9992.jpg]]
 当地住宿8 号: SPiS Hotel & Hostel  Bergmästaregatan 7,98133 Kiruna, Sweden
 ![[Pasted image 20240517141123.png]]
-需要托运的东西：手机充电器，手表充电器，照相机
+需要托运的东西：手机充电器，手表充电器, 
 return
 火车票：Abisko to EVE
 飞机票: EVE- AMS (Aug 15 afternoon 10:15 - 18:15 )

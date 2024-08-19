@@ -38,8 +38,7 @@ https://kirunalapland.se/en/hiking/climb-kebnekaise-summer/
 return
 火车票：Abisko to EVE
 飞机票: EVE- AMS (Aug 15 afternoon 10:15 - 18:15 )
- 回来那天 
-
+ 回来那天
 紧急电话 073-832 41 20
 
 Aug 8th Högalidskolan check in  12pm, get food for first 3 days, a map, passport, gas,

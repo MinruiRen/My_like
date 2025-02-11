@@ -2,6 +2,15 @@ equipment：
 nuun泡腾片 复合维生素
 魔术头巾
 羊毛袜
+雨裤：[男士 PreCip® Eco 全拉链裤 - 短裤 |土拨鼠](https://www.marmot.com/featured/precip-eco/mens-precip-eco-full-zip-pants---short/AFS_195115271183.html)
+运动内衣：
+Women's Barely Bra https://www.patagonia.com/product/womens-racerback-barely-bra/32353.html
+Dames Siren beha van merinowol https://www.icebreaker.com/nl-nl/womens-underwear/siren-beha-van-merinowol%C2%A0/103026.html?selectLocale=true
+https://www.icebreaker.com/nl-nl/womens-underwear/siren-bra-singlet-van-merinowol/0A56BL.html
+
+冲锋衣：
+Women's Torrentshell 3L Rain Jacket
+https://eu.patagonia.com/nl/en/product/womens-torrentshell-3-layer-rain-jacket/196924807198.html
 
 bag：
 Deuter Futura 40
@@ -9,8 +18,7 @@ https://www.deuter.com/nl-nl/shop/rugzakken/p225500-wandelrugzak-futura-pro-40
 Gregory Stout 35
 Fjällräven Kaipak 38
 https://www.fjallraven.com/eu/en-gb/bags-gear/backpacks-bags/trekking-backpacks/kaipak-38/
-Salomon OUT WEEK 38+6 
-https://www.snowleader.nl/en/out-week-38-6-black-alloy-SALO05704.html
+
 
 ATOM pack
 

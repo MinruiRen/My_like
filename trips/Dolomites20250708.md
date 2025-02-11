@@ -2,7 +2,11 @@ equipment：
 nuun泡腾片 复合维生素
 魔术头巾
 羊毛袜
-雨裤：[男士 PreCip® Eco 全拉链裤 - 短裤 |土拨鼠](https://www.marmot.com/featured/precip-eco/mens-precip-eco-full-zip-pants---short/AFS_195115271183.html)
+雨裤：
+[男士 PreCip® Eco 全拉链裤 - 短裤 |土拨鼠](https://www.marmot.com/featured/precip-eco/mens-precip-eco-full-zip-pants---short/AFS_195115271183.html) 
+Women's Torrentshell 3L Rain Pants - Short
+https://eu.patagonia.com/nl/en/product/womens-torrentshell-3-layer-rain-pants-short/195699586383.html?gad_source=1&gclid=CjwKCAiAh6y9BhBREiwApBLHC2tevApuDXRhJxZentPL3l-AYgkSbL2cOnPd-cIl8KdnqjsivJHjRBoCPTMQAvD_BwE&gclsrc=aw.ds
+
 运动内衣：
 Women's Barely Bra https://www.patagonia.com/product/womens-racerback-barely-bra/32353.html
 Dames Siren beha van merinowol https://www.icebreaker.com/nl-nl/womens-underwear/siren-beha-van-merinowol%C2%A0/103026.html?selectLocale=true

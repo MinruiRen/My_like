@@ -1,5 +1,22 @@
+equipment：
+nuun泡腾片 复合维生素
+魔术头巾
+羊毛袜
 
-tents:
+bag：
+Deuter Futura 40
+https://www.deuter.com/nl-nl/shop/rugzakken/p225500-wandelrugzak-futura-pro-40
+Gregory Stout 35
+Fjällräven Kaipak 38
+https://www.fjallraven.com/eu/en-gb/bags-gear/backpacks-bags/trekking-backpacks/kaipak-38/
+Salomon OUT WEEK 38+6 
+https://www.snowleader.nl/en/out-week-38-6-black-alloy-SALO05704.html
+
+ATOM pack
+
+
+
+tents: 
 #### **Option 1: Camping Route** (Self-supported)
 
 **Day 1:**

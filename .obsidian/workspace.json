@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trips/20250529Poland.md",
+                "file": "心理咨询/202502.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250529Poland"
+              "title": "202502"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "aadaefc8ab862ad1",
@@ -178,9 +179,10 @@
   },
   "active": "bb0dcfa299b53e56",
   "lastOpenFiles": [
+    "trips/20250529Poland.md",
+    "心理咨询/202502.md",
     "trips/Dolomites20250708.md",
     "trips/Morskie_Oko_lake2025.md",
-    "trips/20250529Poland.md",
     "photo/20240613photo.md",
     "菜谱.md",
     "conflict-files-obsidian-git.md",

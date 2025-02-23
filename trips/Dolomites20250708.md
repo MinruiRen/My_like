@@ -1,17 +1,18 @@
 
-1016equipment：
+1016 equipment：
 nuun泡腾片 复合维生素
 魔术头巾
 羊毛袜
 雨裤：
-[男士 PreCip® Eco 全拉链裤 - 短裤 |土拨鼠](https://www.marmot.com/featured/precip-eco/mens-precip-eco-full-zip-pants---short/AFS_195115271183.html) 
+Basecamp
+Laan van Waalhaven 251
+2497 GL Den Haag
+Women's PreCip Eco Full Zip Pant Short
+https://www.marmot.com/women/bottoms/rainwear/womens-precip-eco-full-zip-pants---short-2023/AFS_889169479519.html
+
 Women's Torrentshell 3L Rain Pants - Short
 https://eu.patagonia.com/nl/en/product/womens-torrentshell-3-layer-rain-pants-short/195699586383.html?gad_source=1&gclid=CjwKCAiAh6y9BhBREiwApBLHC2tevApuDXRhJxZentPL3l-AYgkSbL2cOnPd-cIl8KdnqjsivJHjRBoCPTMQAvD_BwE&gclsrc=aw.ds
 
-运动内衣：
-Women's Barely Bra https://www.patagonia.com/product/womens-racerback-barely-bra/32353.html
-Dames Siren beha van merinowol https://www.icebreaker.com/nl-nl/womens-underwear/siren-beha-van-merinowol%C2%A0/103026.html?selectLocale=true
-https://www.icebreaker.com/nl-nl/womens-underwear/siren-bra-singlet-van-merinowol/0A56BL.html
 
 冲锋衣：
 Women's Torrentshell 3L Rain Jacket
@@ -28,69 +29,17 @@ https://www.fjallraven.com/eu/en-gb/bags-gear/backpacks-bags/trekking-backpacks/
 ATOM pack
 
 
-
 tents: 
-#### **Option 1: Camping Route** (Self-supported)
+https://www.alpineexploratory.com/walking-guides/alta-via-1.html
+**20250817**
+flight to Venice ( 2 hour), get to Dobbiaco (Bus 3 hour), afternoon
+start Day1 : Lago di braie 6.2 km
+rifugio Biella  80欧 https://rifugiobiella.it/en/
 
-**Day 1:**
+**20250818**
+Day 2
+rifugio senes  https://www.sennes.com/en/contact/index.php
 
-- **Route:** Cortina d'Ampezzo → Lago di Sorapiss (Sorapiss Lake).
-- **Distance:** 12 km.
-- **Ascent:** ~400m.
-- **Camping:** Set up camp near the lake (ensure local camping regulations are followed).
-
-**Day 2:**
-
-- **Route:** Lago di Sorapiss → Rifugio Vandelli → Passo Tre Croci → Camping in Valbona.
-- **Distance:** 18 km.
-- **Ascent:** ~600m.
-- **Camping:** Official campsite in Valbona.
-
-**Day 3:**
-
-- **Route:** Valbona → Tre Cime di Lavaredo (Three Peaks) loop.
-- **Distance:** 20 km.
-- **Ascent:** ~500m.
-- **Camping:** Camp near Rifugio Auronzo.
-
-**Day 4:**
-
-- **Route:** Rifugio Auronzo → Cadini di Misurina loop.
-- **Distance:** 16 km.
-- **Ascent:** ~500m.
-- **Camping:** Return to same camping spot or move closer to Misurina.
-
-**Day 5:**
-
-- **Rest day:** Optional short hikes around Misurina Lake.
-- **Camping:** Same campsite.
-
-**Day 6:**
-
-- **Route:** Misurina → Passo Tre Croci → Monte Cristallo Circuit.
-- **Distance:** 22 km.
-- **Ascent:** ~600m.
-- **Camping:** Camp in the Cortina area.
-
-**Day 7:**
-
-- **Route:** Cortina → Cinque Torri area.
-- **Distance:** 15 km.
-- **Ascent:** ~500m.
-- **Camping:** Camp near Rifugio Scoiattoli.
-
-**Day 8:**
-
-- **Route:** Cinque Torri → Passo Giau Circuit.
-- **Distance:** 16 km.
-- **Ascent:** ~600m.
-- **Camping:** Camp near Passo Giau.
-
-**Day 9:**
-
-- **Route:** Return to Cortina d'Ampezzo.
-- **Distance:** 18 km.
-- **Ascent:** ~400m.
 
 refuge:
 #### **Option 2: Mountain Hut Route** (Rifugio-to-rifugio)

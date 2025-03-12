@@ -3,7 +3,7 @@ Aug 8th Högalidskolan check in  12pm, get food for first 3 days, a map, passpor
 Length 127 km Elev. gain 3889 m
 **bold font** = **check point** 
 
-Aug 9th 1:30-2:30pm take bus  
+Aug 9th 1:30-2:30pm take bus  Day 1
 	14：30  **Nikkaluokta** (food & gas=1.5 day = 3 bags) -- Laddjujavri *boat* - **Kebnekaise** 5 km + 6 km (boat) + 8 km + 4 km camping at 23 Km,  Elev. 600 km close to rivers 
 
 Aug 10th

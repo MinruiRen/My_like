@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.6.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.221930999999998" minlon="12.008104899999999" maxlat="46.693117100000002" maxlon="12.188812700000000"/></metadata>                  
+<wpt lat="46.6931171" lon="12.0846069">
+  <name>Lake Braies</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="46.6147798" lon="12.0133592">
+  <name>Ücia dles Muntagnoles</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="46.527713" lon="12.0081049">
+  <name>Rifugio Lagazuoi</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="46.488109" lon="12.115782">
+  <name>Malga Federa</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="46.3993874" lon="12.0687912">
+  <name>Rifugio Adolfo Sonino al Coldai</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="46.3221433" lon="12.0707095">
+  <name>Rifugio Bruto Carestiato</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="46.2889044" lon="12.1636364">
+  <name>Rifugio Sommariva al Pramperet</name>
+  <extensions>
+  </extensions>
+</wpt>
+<wpt lat="46.221931" lon="12.1888127">
+  <name>Rifugio 7° Alpini</name>
+  <extensions>
+  </extensions>
+</wpt>
+</gpx>

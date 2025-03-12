@@ -34,11 +34,35 @@ https://www.alpineexploratory.com/walking-guides/alta-via-1.html
 **20250817**
 flight to Venice ( 2 hour), get to Dobbiaco (Bus 3 hour), afternoon
 start Day1 : Lago di braie 6.2 km
-rifugio Biella  80欧 https://rifugiobiella.it/en/
 
 **20250818**
 Day 2
-rifugio senes  https://www.sennes.com/en/contact/index.php
+Ücia dles Muntagnoles
+Ücia Fanes-Hütte
+
+20250819
+day 3
+Lagazuòi Hut 
+
+20250820：
+day 4
+Malga Federa
+Malga Giau
+
+20250821：
+day 5
+Rifugio Adolfo Sonino al Coldai
+
+
+20250822
+day6
+Rifugio Bruto Carestiato
+
+
+20250823
+day7
+Rifugio Sommariva al Pramperet
+
 
 
 refuge:

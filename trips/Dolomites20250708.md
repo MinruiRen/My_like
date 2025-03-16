@@ -109,21 +109,21 @@ Malga Giau (可用 WhatsApp +39 320 915 2575)
 
 **20250821**：
 day5
-Rifugio Lagazuoi (email https://rifugiolagazuoi.com/EN/disponibilita.php?prm=11&chm=1#TabDisp)
-Rifugio Scotoni - San Cassiano Alta Badia
-Rifugio Passo Valparola
-Bivacco della Pace
+Rifugio Lagazuoi (emailed https://rifugiolagazuoi.com/EN/disponibilita.php?prm=11&chm=1#TabDisp)
+~~Rifugio Scotoni - San Cassiano Alta Badia (full )~~
+Rifugio Passo Valparola (call for book +39 0471 847330)
+~~Bivacco della Pace ~~
 
 *indirection*
-Rifugio Angelo Dibona
+Rifugio Angelo Dibona (45欧 可定 https://rifugiodibona.app/)
 
 
 **20250822**
 day 6
-Albergo Alpino Pederü Berggasthaus
-Rifugio Munt de Sennes
-Malga Ra Stua
-Rifugio Biella
+Albergo Alpino Pederü Berggasthaus （可定 https://www.pederue.it/de?moduleId=23VPYbl-&roomId=14063）
+Rifugio Munt de Sennes （emailed）
+Malga Ra Stua （可定 100 pp https://www.rifugiomalgarastua.it/en/?wpbs-search-start-date=2025-8-22&wpbs-search-end-date=2025-8-23）
+Rifugio Biella (24号 可定 88 pp https://www.planyo.com/booking.php?calendar=67368&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D67368&mode=reserve&planyo_lang=en&prefill=true&resource_id=224735&)
 
 **20250823**
 Day 7

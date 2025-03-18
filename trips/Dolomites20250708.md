@@ -61,10 +61,7 @@ Rifugio Sommariva al Pramperet
 
 
 **20250823**
-
 refuge:
-
-
 
 
 
@@ -97,8 +94,8 @@ Back-up: Mareson town (*Direction 2*)
 **20250820**：
 day 4
 *direction 1*
-Malga Federa （email 已发）
-~~Croda da Lago / Palmieri （不可用 email 已发）~~
+Malga Federa （email 可定110 p.p.  ）
+~~Croda da Lago / Palmieri （full email 已发）~~
 ~~Rifugio 5 Torri （full +39 0436 - 2902 ）~~
 ~~Rifugio Scoiattoli (full +39 0436 867939)~~
 
@@ -121,10 +118,72 @@ Rifugio Angelo Dibona (45欧 可定 https://rifugiodibona.app/)
 **20250822**
 day 6
 Albergo Alpino Pederü Berggasthaus （可定 https://www.pederue.it/de?moduleId=23VPYbl-&roomId=14063）
-Rifugio Munt de Sennes （emailed）
+Rifugio Munt de Sennes （emailed 可定55）
 Malga Ra Stua （可定 100 pp https://www.rifugiomalgarastua.it/en/?wpbs-search-start-date=2025-8-22&wpbs-search-end-date=2025-8-23）
 Rifugio Biella (24号 可定 88 pp https://www.planyo.com/booking.php?calendar=67368&feedback_url=https%3A%2F%2Fwww.planyo.com%2Fbooking.php%3Fcalendar%3D67368&mode=reserve&planyo_lang=en&prefill=true&resource_id=224735&)
 
 **20250823**
 Day 7
 Toblach/Dobbiaco (a bit far bigger), Niederdorf/Villabassa (closer smaller) (Bus info: https://www.prags.bz/en)
+
+正走露营版 
+（https://www.alltrails.com/explore/map/campalta-via-1-dolomites-20250318-365d177?u=m&sh=ffy9ej ）：
+
+**20250817**
+flight to Venice ( 2 hour), get to Dobbiaco (Bus 3 hour), afternoon
+start Day1 : Lago di braie 
+Day 1
+Lake Braies -  18 km - east of Ücia dles Muntagnoles
+UP 800 m Down 600 m
+
+**20250818**
+day 2
+ Ücia dles Muntagnoles - 14 km - Rifugio Lagazuoi
+一战遗址
+UP 700 m Down 300 m
+
+**20250819**
+day 3
+Rifugio Lagazuoi - 11 km - Malga Federa （110欧） or 山下小镇 （洗澡）
+UP 400 m Down 500 m
+
+**20250820**：
+day 4
+Malga Federa - 16 km - Rifugio Adolfo Sonino al Coldai
+UP 600 m Down 400 m
+
+**20250821**：
+day5 
+Rifugio Adolfo Sonino al Coldai - 16 km - Rifugio Bruto Carestiato
+UP 500 m Down 550 m
+
+**20250822**
+day6
+Rifugio Bruto Carestiato - 13 km- Rifugio Sommariva al Pramperet (洗澡)
+UP 300 m Down 450 m
+
+**20250823**
+day 7 
+Rifugio Sommariva al Pramperet - 14 km - La Pissa bus stop 
+UP 400 m Down 400 m
+
+参考：
+[5 Days in Alta Via 1 with a tent. Alta Via 1 (high road number 1 in… | by Dean Ruina | Medium](https://medium.com/@ruinadd/5-days-in-alta-via-1-with-a-tent-d39752aa940#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImVlMTkzZDQ2NDdhYjRhMzU4NWFhOWIyYjNiNDg0YTg3YWE2OGJiNDIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTE1NDUzNzM0MDE1NDY2MDgzNzUiLCJlbWFpbCI6InJtaW5ydWlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTc0MjMwODA4MiwibmFtZSI6Ik1pbnJ1aSBSZW4iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXoyWG8xZFp2cDQ2Mks1WlFDTWEtNTVPZHVMSHdzaktBdDVYOXl4YlJhNm00Y0l3PXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6Ik1pbnJ1aSIsImZhbWlseV9uYW1lIjoiUmVuIiwiaWF0IjoxNzQyMzA4MzgyLCJleHAiOjE3NDIzMTE5ODIsImp0aSI6IjRiMTdkZjEwMjk0ZDY3NTUzYjlhOTljOTVmZWQ4NTBkMDIxZWMxZWIifQ.pGubFdw7kxIQrFUvjCR7Llxe5G7St8BcQx_o6K1mCDpZgQgeU0In8F30PSfmUW0hC-oO3zk9rMr0PwaqzfTIDGXtAor7LZppbXWC5my2No32c18RbPtqn-QYOotFlt3GSoB8-2yy7lMjFwfTYdESicLjyCR04dvfxbX_Ok1XngTeCKCb3K2NdudfbpwcFTNnMrH9n79i4Q1n_sYX8M1fqjDFPv5QViAZyc-Xe7PEPwsSvdYXBitM1XMu1UKpbTsUHv-FK9lnhWRzbw32pa_zMnADxMilwKQD5afhU-omE8ReBbGmf5OtCziEZr2LyPp-IDjI2FOyOa1hpsQswi_acQ)
+
+[https://medium.com/@anastasia_step/alta-via-1-hiking-with-a-tent-june-2024-828bd940168a](https://medium.com/@anastasia_step/alta-via-1-hiking-with-a-tent-june-2024-828bd940168a)
+
+[https://amellie.net/alta-via-1-hike-itinerary-reportage/](https://amellie.net/alta-via-1-hike-itinerary-reportage/)
+
+[https://www.thehikinglife.com/2020/01/a-quick-dirty-guide-to-italys-alta-via-1/](https://www.thehikinglife.com/2020/01/a-quick-dirty-guide-to-italys-alta-via-1/)
+
+备忘：rifugio 可以购买补给和早餐，午餐（14：00）20欧/人，现金，用餐无需预定，只能在山屋补充水源
+
+起点附近有超市
+
+442Bus 网上购买车票
+
+帐篷搭在小屋1.5km以外，或者询问小屋主人是否可以，或者使用紧急避难所bivacchi
+
+不需要冰抓
+
+一战遗址

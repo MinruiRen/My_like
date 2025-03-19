@@ -186,4 +186,33 @@ UP 400 m Down 400 m
 
 不需要冰抓
 
-一战遗址
+露营地版：
+
+**20250817**
+flight to Venice ( 2 hour), get to Dobbiaco (Bus 3 hour), afternoon
+start Day1 :
+Day 1
+
+
+**20250818**
+day 2
+ 
+
+**20250819**
+day 3
+
+
+**20250820**：
+day 4
+
+
+**20250821**：
+day5 
+
+
+**20250822**
+day6
+
+
+**20250823**
+day 7 

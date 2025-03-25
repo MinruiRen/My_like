@@ -126,8 +126,10 @@ Rifugio Biella (24号 可定 88 pp https://www.planyo.com/booking.php?calendar=6
 Day 7
 Toblach/Dobbiaco (a bit far bigger), Niederdorf/Villabassa (closer smaller) (Bus info: https://www.prags.bz/en)
 
-正走露营版 
+### 正走露营版 
 （https://www.alltrails.com/explore/map/campalta-via-1-dolomites-20250318-365d177?u=m&sh=ffy9ej ）：
+**20250816**
+flight to Venice ( 2 hour), get to Dobbiaco
 
 **20250817**
 flight to Venice ( 2 hour), get to Dobbiaco (Bus 3 hour), afternoon
@@ -166,6 +168,14 @@ UP 300 m Down 450 m
 day 7 
 Rifugio Sommariva al Pramperet - 14 km - La Pissa bus stop 
 UP 400 m Down 400 m
+Venice
+**20250824**
+Venice
+**20250825**
+Netherland
+
+![[Pasted image 20250325122957.png]]
+
 
 参考：
 [5 Days in Alta Via 1 with a tent. Alta Via 1 (high road number 1 in… | by Dean Ruina | Medium](https://medium.com/@ruinadd/5-days-in-alta-via-1-with-a-tent-d39752aa940#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImVlMTkzZDQ2NDdhYjRhMzU4NWFhOWIyYjNiNDg0YTg3YWE2OGJiNDIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTE1NDUzNzM0MDE1NDY2MDgzNzUiLCJlbWFpbCI6InJtaW5ydWlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTc0MjMwODA4MiwibmFtZSI6Ik1pbnJ1aSBSZW4iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXoyWG8xZFp2cDQ2Mks1WlFDTWEtNTVPZHVMSHdzaktBdDVYOXl4YlJhNm00Y0l3PXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6Ik1pbnJ1aSIsImZhbWlseV9uYW1lIjoiUmVuIiwiaWF0IjoxNzQyMzA4MzgyLCJleHAiOjE3NDIzMTE5ODIsImp0aSI6IjRiMTdkZjEwMjk0ZDY3NTUzYjlhOTljOTVmZWQ4NTBkMDIxZWMxZWIifQ.pGubFdw7kxIQrFUvjCR7Llxe5G7St8BcQx_o6K1mCDpZgQgeU0In8F30PSfmUW0hC-oO3zk9rMr0PwaqzfTIDGXtAor7LZppbXWC5my2No32c18RbPtqn-QYOotFlt3GSoB8-2yy7lMjFwfTYdESicLjyCR04dvfxbX_Ok1XngTeCKCb3K2NdudfbpwcFTNnMrH9n79i4Q1n_sYX8M1fqjDFPv5QViAZyc-Xe7PEPwsSvdYXBitM1XMu1UKpbTsUHv-FK9lnhWRzbw32pa_zMnADxMilwKQD5afhU-omE8ReBbGmf5OtCziEZr2LyPp-IDjI2FOyOa1hpsQswi_acQ)
@@ -186,33 +196,4 @@ UP 400 m Down 400 m
 
 不需要冰抓
 
-露营地版：
 
-**20250817**
-flight to Venice ( 2 hour), get to Dobbiaco (Bus 3 hour), afternoon
-start Day1 :
-Day 1
-
-
-**20250818**
-day 2
- 
-
-**20250819**
-day 3
-
-
-**20250820**：
-day 4
-
-
-**20250821**：
-day5 
-
-
-**20250822**
-day6
-
-
-**20250823**
-day 7 

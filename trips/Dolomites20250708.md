@@ -124,13 +124,14 @@ Rifugio Biella (24号 可定 88 pp https://www.planyo.com/booking.php?calendar=6
 
 **20250823**
 Day 7
-Toblach/Dobbiaco (a bit far bigger), Niederdorf/Villabassa (closer smaller) (Bus info: https://www.prags.bz/en)
+Toblach/Dobbiaco (a bit far bigger) (Bus info: https://www.prags.bz/en)
 
 ### 正走露营版 
+
 （https://www.alltrails.com/explore/map/campalta-via-1-dolomites-20250318-365d177?u=m&sh=ffy9ej ）：
 **20250816**
-flight to Venice ( 2 hour), get to Dobbiaco
-
+flight to Venice ( 2 hour), get to Dobbiaco (sleep)
+酒店：Garni Her-Bri in Toblach：  nfrage und Reservierung nur telefonisch möglich! Tel. 0039 0474 972490
 **20250817**
 flight to Venice ( 2 hour), get to Dobbiaco (Bus 3 hour), afternoon
 start Day1 : Lago di braie 
@@ -171,6 +172,9 @@ UP 400 m Down 400 m
 Venice
 **20250824**
 Venice
+酒店：[Allegri Palace 2, Venezia Mestre - Apartments for Rent in Venice, Veneto, Italy - Airbnb](https://www.airbnb.com/rooms/1214446163446153916?adults=4&check_in=2025-08-23&check_out=2025-08-25&search_mode=regular_search&source_impression_id=p3_1743001878_P3RNYeLE_Q6qP1YK&previous_page_section_name=1000&federated_search_id=56b474b6-66a0-4650-b376-d360e22b1ca3&guests=4)
+
+
 **20250825**
 Netherland
 
@@ -190,7 +194,11 @@ Netherland
 
 起点附近有超市
 
-442Bus 网上购买车票
+442Bus 网上购买车票：
+**Dobbiaco <> Lago di Braies**
+
+Line 442 operates every 30 minutes to 1 hour, between 7am and 8pm. It is very important that you pre-book this bus during peak periods - July and August, and weekends in June and September. https://www.prags.bz/en
+k
 
 帐篷搭在小屋1.5km以外，或者询问小屋主人是否可以，或者使用紧急避难所bivacchi
 

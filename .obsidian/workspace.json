@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eb7c8b38f7299fa1",
+        "id": "bf0d177ecaca6652",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1b6954a1071c1a",
+            "id": "1874310b80b812c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trips/20250529Poland.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20250529Poland"
-            }
-          },
-          {
-            "id": "fafe519c743aa10d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trips/Dolomites20250708.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dolomites20250708"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "aadaefc8ab862ad1",
@@ -177,10 +157,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fafe519c743aa10d",
+  "active": "1874310b80b812c3",
   "lastOpenFiles": [
     "trips/20250529Poland.md",
     "trips/Dolomites20250708.md",
+    "trips/Ester_Camp.md",
     "心理咨询/202503.md",
     "Cats_lovenote.md",
     "心理咨询/202502.md",
@@ -193,7 +174,6 @@
     "trips/CampAlta Via 1 Dolomites20250318.kmz.crdownload",
     "trips/CampAlta Via 1 Dolomites_20250318.kml",
     "trips/CampAlta Via 1 Dolomites_20250318.kml.crdownload",
-    "trips/Ester_Camp.md",
     "trips/20250924.md",
     "trips/mygeodata/Alta Via 1 Dolomites20250312/Trail Planner Map-POINT.gpx",
     "trips/mygeodata/Alta Via 1 Dolomites20250312/Trail Planner Map-LINESTRING.gpx",

@@ -3,7 +3,7 @@ April 18 Burgers' Zoo (https://www.burgerszoo.nl/ticketshops/burgers-zoo-postcod
 night: camp at Het Nationale Park De Hoge Veluwe  https://www.campingderimboe.com/zoek_en_boek?beginDate=2025-4-18&endDate=2025-4-19&type=3694&personCategory[6397]=2
 pitch two
 
-April 19 Hot spring Thermen Bussloo
+April 19 Hot spring Thermen Bussloo (待定)
 
 
 

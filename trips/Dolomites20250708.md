@@ -131,7 +131,8 @@ Toblach/Dobbiaco (a bit far bigger) (Bus info: https://www.prags.bz/en)
 （https://www.alltrails.com/explore/map/campalta-via-1-dolomites-20250318-365d177?u=m&sh=ffy9ej ）：
 **20250816**
 flight to Venice ( 2 hour), get to Dobbiaco (sleep)
-酒店：Garni Her-Bri in Toblach：  nfrage und Reservierung nur telefonisch möglich! Tel. 0039 0474 972490
+酒店：Der Schlüssel kann während der Check-in Zeiten im Büro abgeholt werden!
+
 **20250817**
 flight to Venice ( 2 hour), get to Dobbiaco (Bus 3 hour), afternoon
 start Day1 : Lago di braie 
@@ -147,7 +148,7 @@ UP 700 m Down 300 m
 
 **20250819**
 day 3
-Rifugio Lagazuoi - 11 km - Malga Federa （110欧） or 山下小镇 （洗澡）
+Rifugio Lagazuoi - 11 km - Malga Federa （110欧）
 UP 400 m Down 500 m
 
 **20250820**：

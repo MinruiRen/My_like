@@ -35,7 +35,8 @@
               "title": "Dolomites20250708"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d1b6954a1071c1a",
+  "active": "fafe519c743aa10d",
   "lastOpenFiles": [
-    "trips/Dolomites20250708.md",
     "trips/20250529Poland.md",
+    "trips/Dolomites20250708.md",
     "心理咨询/202503.md",
     "Cats_lovenote.md",
     "心理咨询/202502.md",

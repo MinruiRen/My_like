@@ -172,7 +172,8 @@ UP 400 m Down 400 m
 Venice
 **20250824**
 Venice
-酒店：[Allegri Palace 2, Venezia Mestre - Apartments for Rent in Venice, Veneto, Italy - Airbnb](https://www.airbnb.com/rooms/1214446163446153916?adults=4&check_in=2025-08-23&check_out=2025-08-25&search_mode=regular_search&source_impression_id=p3_1743001878_P3RNYeLE_Q6qP1YK&previous_page_section_name=1000&federated_search_id=56b474b6-66a0-4650-b376-d360e22b1ca3&guests=4)
+酒店：[[Ca' Mestrina Three Bedroom Loft] - Venice - Apartments for Rent in Venice, Veneto, Italy - Airbnb](https://www.airbnb.com/rooms/1109514300332624150?source_impression_id=p3_1743063523_P36P2H9bvWnCNb92)
+Via Mestrina, 118, Venice, Veneto 30172, Italy
 
 
 **20250825**

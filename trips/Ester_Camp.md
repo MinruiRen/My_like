@@ -1,9 +1,9 @@
 April 18-19
-April 18 Burgers' Zoo (https://www.burgerszoo.nl/ticketshops/burgers-zoo-postcode-loterij/reserveren-actiecode 需要买票)
+April 18 Burgers' Zoo (https://www.burgerszoo.nl/ticketshops/burgers-zoo-postcode-loterij/reserveren-actiecode 未购票)
 night: camp at Het Nationale Park De Hoge Veluwe  https://www.campingderimboe.com/zoek_en_boek?beginDate=2025-4-18&endDate=2025-4-19&type=3694&personCategory[6397]=2
-pitch two
+booked pitch two
 
-April 19 Hot spring Thermen Bussloo (待定)
+April 19 Hot spring Thermen Bussloo (待定票)
 
 
 

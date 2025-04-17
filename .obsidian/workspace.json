@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf0d177ecaca6652",
+        "id": "468a88e5fe9c98a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1874310b80b812c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trips/Ester_Camp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ester_Camp"
-            }
-          },
-          {
-            "id": "2dc07000ded553b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trips/20250529Poland.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250529Poland"
-            }
-          },
-          {
-            "id": "27f1995ba58b3a64",
+            "id": "ed46ceca37b9ed37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "Ester_Camp"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +161,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27f1995ba58b3a64",
+  "active": "ed46ceca37b9ed37",
   "lastOpenFiles": [
+    "Cats_lovenote.md",
+    "trips/Ester_Camp.md",
+    "trips/20250529Poland.md",
     "trips/Dolomites20250708.md",
     "trips/Poland/biletysamineTIcke.pdf",
     "trips/Poland",
@@ -203,11 +177,8 @@
     "trips/AB1CB000",
     "trips/17ABB000",
     "trips/Money_calultor.xlsx",
-    "trips/20250529Poland.md",
-    "trips/Ester_Camp.md",
     "户外社群/群公告20250327.md",
     "心理咨询/202503.md",
-    "Cats_lovenote.md",
     "心理咨询/202502.md",
     "心理咨询/202401.md",
     "trips/徒步训练.md",

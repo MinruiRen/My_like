@@ -81,3 +81,10 @@ https://www.pitchup.com/nl/campsites/netherlands/east_netherlands/gelderland/hoe
 一起玩出精彩，见到你们不见不散！
 
 
+交通与活动： 
+
+15：30 Hoenderloo, Kronkelweg bus station 见
+17：10  Hoenderloo, Kronkelweg bus 108  17：39 Ede, Driesprong
+17：39  Ede, Driesprong to Camping de Rimboe, Boslaan 129, 6741 KG Lunteren walk 3.7 km 50 mins
+dinner: groceries or delivery food or restaurant  自我介绍
+after food activities: 唱歌接龙,  card game,  book share

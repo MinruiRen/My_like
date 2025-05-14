@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trips/Ester_Camp.md",
+                "file": "心理咨询/202505.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ester_Camp"
+              "title": "202505"
             }
           }
         ]
@@ -163,10 +163,19 @@
   },
   "active": "ed46ceca37b9ed37",
   "lastOpenFiles": [
-    "Cats_lovenote.md",
-    "trips/Ester_Camp.md",
-    "trips/20250529Poland.md",
+    "Books/在风车下读博.md",
+    "心理咨询/202505.md",
+    "Books/窄门.md",
+    "German/Learn_begin.md",
+    "Books",
+    "trips/Fjällräven Classic Germany20250924.md",
+    "trips/Kungsleden20240808.md",
+    "trips/fjallraven-classic20240805.pdf",
+    "trips/Fjällräven Classic Kebnekaise _ A3.pdf",
     "trips/Dolomites20250708.md",
+    "trips/Ester_Camp.md",
+    "Cats_lovenote.md",
+    "trips/20250529Poland.md",
     "trips/Poland/biletysamineTIcke.pdf",
     "trips/Poland",
     "trips/New folder",
@@ -174,9 +183,6 @@
     "trips/7717C000",
     "trips/~$Money_calultor.xlsx",
     "trips/4B72C000",
-    "trips/AB1CB000",
-    "trips/17ABB000",
-    "trips/Money_calultor.xlsx",
     "户外社群/群公告20250327.md",
     "心理咨询/202503.md",
     "心理咨询/202502.md",
@@ -184,7 +190,6 @@
     "trips/徒步训练.md",
     "long_term_plan.md",
     "trips/20250924.md",
-    "trips/Fjällräven Classic Germany20250924.md",
     "Untitled.md",
     "菜谱.md",
     "README.md",
@@ -193,10 +198,6 @@
     "photo/20240613photo.md",
     "conflict-files-obsidian-git.md",
     "piano/打上花火.md",
-    "gift list/friend.md",
-    "gift list/师长.md",
-    "心理咨询/202412.md",
-    "心理咨询/202411.md",
-    "心理咨询/202408.md"
+    "gift list/friend.md"
   ]
 }

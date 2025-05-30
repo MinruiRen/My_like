@@ -4,3 +4,8 @@ ticket: March 4th 10 am
 Fjällräven Classic Germany
 
 company: 朱华 胡老师
+
+20250923 出发 慕尼黑- 
+住宿
+24 号 25 号 26 号
+27号 返回

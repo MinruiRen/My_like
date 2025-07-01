@@ -14,21 +14,3 @@ https://www.decathlontravel.com/
 https://www.decathlontravel.com/voyages/sport-ski-de-fond/voyage-ski-de-fond-a-nevache/LYFKCP
 
 Brussels → Paris → Briançon → Névache
-
-![[Pasted image 20250701122928.png]]
-
-Ski de fond dans les Hautes-Alpes à Névache
-
-4,9/5(1 avis)
-
-- 7 jours
-- Ski de fond
-- Débutant
-
-Dates
-
-28/12/2025
-
-03/01/2026
-
-Voyageurs1 personne

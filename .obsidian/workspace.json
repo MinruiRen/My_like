@@ -35,7 +35,8 @@
               "title": "Alpensguide"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed46ceca37b9ed37",
+  "active": "ca3b01fb3bd51c16",
   "lastOpenFiles": [
-    "户外社群/Alpensguide.md",
     "trips/Névache202512.md",
+    "户外社群/Alpensguide.md",
     "Pasted image 20250701122928.png",
     "trips/202608_Norway.md",
     "心理咨询/202505.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trips/202608_Norway.md",
+                "file": "户外社群/Alpensguide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202608_Norway"
+              "title": "Alpensguide"
             }
           }
         ]
@@ -163,8 +163,10 @@
   },
   "active": "ed46ceca37b9ed37",
   "lastOpenFiles": [
-    "心理咨询/202505.md",
+    "Pasted image 20250701122928.png",
     "trips/202608_Norway.md",
+    "户外社群/Alpensguide.md",
+    "心理咨询/202505.md",
     "piano/practice plan.md",
     "Wood/timeline.md",
     "Books/在风车下读书.md",
@@ -196,8 +198,6 @@
     "trips/20250924.md",
     "Untitled.md",
     "菜谱.md",
-    "README.md",
-    "2025-01-30.md",
-    "trips/Morskie_Oko_lake2025.md"
+    "README.md"
   ]
 }

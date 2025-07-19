@@ -4,20 +4,6 @@ nuun泡腾片 复合维生素
 魔术头巾
 羊毛袜
 
-bag：
-Deuter Futura 40
-https://www.deuter.com/nl-nl/shop/rugzakken/p225500-wandelrugzak-futura-pro-40
-Gregory Stout 35
-Fjällräven Kaipak 38
-https://www.fjallraven.com/eu/en-gb/bags-gear/backpacks-bags/trekking-backpacks/kaipak-38/
-
-
-ATOM pack
-
-
-tents: 
-https://www.alpineexploratory.com/walking-guides/alta-via-1.html
-
 https://www.caiveneto.it/rifugi
 https://www.altavia1dolomiti.com/rifugi
 (Dear Sir, or Madam,

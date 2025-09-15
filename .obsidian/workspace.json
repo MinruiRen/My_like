@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "468a88e5fe9c98a9",
+        "id": "45f3861b6f955254",
         "type": "tabs",
         "children": [
           {
-            "id": "ca3b01fb3bd51c16",
+            "id": "71f804fab28a9dd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "户外社群/Alpensguide.md",
+                "file": "interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alpensguide"
+              "title": "interview"
             }
           }
         ]
@@ -152,6 +152,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -161,8 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca3b01fb3bd51c16",
+  "active": "71f804fab28a9dd9",
   "lastOpenFiles": [
+    "interview.md",
+    "Untitled",
+    "trips/Fjällräven Classic Germany20250924.md",
+    "户外社群/Alpensguide.md",
     "心理咨询/202508.md",
     "随笔/从谁的角度想问题.md",
     "随笔/不我喜欢物理_记伦酱.md",
@@ -188,17 +193,13 @@
     "sports",
     "trips/Névache202512.md",
     "ski",
-    "户外社群/Alpensguide.md",
     "Pasted image 20250701122928.png",
     "trips/202608_Norway.md",
     "心理咨询/202505.md",
     "piano/practice plan.md",
     "Wood/timeline.md",
-    "Books/在风车下读书.md",
     "Wood",
-    "Books/窄门.md",
     "Books",
-    "trips/fjallraven-classic20240805.pdf",
-    "trips/Fjällräven Classic Kebnekaise _ A3.pdf"
+    "trips/fjallraven-classic20240805.pdf"
   ]
 }

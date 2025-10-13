@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "aadaefc8ab862ad1",
@@ -165,6 +164,7 @@
   },
   "active": "e5eebfb6c1a4d7b7",
   "lastOpenFiles": [
+    "piano/course.md",
     "sports/rowing_Asopos.md",
     "户外社群/Mullerthal Trail.md",
     "户外社群/plog_hiking.md",
@@ -194,7 +194,6 @@
     "随笔",
     "科普漫画/my_research.md",
     "科普漫画/textbook.md",
-    "科普漫画/aminoacid.md",
     "科普漫画",
     "Myexpression",
     "sports",

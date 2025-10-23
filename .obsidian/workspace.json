@@ -49,7 +49,8 @@
               "title": "20251015_autumnphoto"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "aadaefc8ab862ad1",
@@ -190,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5eebfb6c1a4d7b7",
+  "active": "6acfc26bcae1bd97",
   "lastOpenFiles": [
+    "selfmedia/routine plan/每日行程记录.md",
     "photo/denfense/Camera_XHS_17607694252711040g2sg313hs8ortg28g48rs752vpg5dlr5tgvg.jpg",
     "photo/denfense/Camera_XHS_17607693781201040g00831gqja4cujq005nld29o085dc6hi5u0o.jpg",
     "photo/denfense/Camera_XHS_17607690917391040g008312ui9vi042305n4d1hekgs16va9fq6o.jpg",
@@ -202,10 +205,8 @@
     "photo/denfense/Camera_XHS_17607685456901040g008312ujruea5m0049v0fqd5m5j9hqtuiqo.jpg",
     "photo/denfense/Camera_XHS_17607681536641040g00831bppfkqv10105o13a54g915c20l0mp0.jpg",
     "photo/denfense/Camera_XHS_17607683237631040g2sg31dh8am3kgm6g5oqp5oim5o43s125t6g.jpg",
-    "photo/denfense/Camera_XHS_17607680011021040g00831e3buk8u100g4a793vb2l0b3u5snos8.jpg",
     "photo/denfense",
     "photo/defense_photo.md",
-    "selfmedia/routine plan/每日行程记录.md",
     "photo/20251015_autumnphoto.md",
     "photo/autumn",
     "photo/20240613photo.md",

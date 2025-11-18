@@ -35,8 +35,7 @@
               "title": "每日行程记录"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,10 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8909bfb0b0f103a3",
+  "active": "db6a72c5731e27e4",
   "lastOpenFiles": [
-    "2025-11-13.md",
     "selfmedia/routine plan/每日行程记录.md",
+    "2025-11-13.md",
     "long_term_plan.md",
     "trips/202512_Prague.md",
     "心理咨询/202511.md",

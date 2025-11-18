@@ -35,7 +35,8 @@
               "title": "每日行程记录"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,12 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db6a72c5731e27e4",
+  "active": "8909bfb0b0f103a3",
   "lastOpenFiles": [
+    "2025-11-18.md",
     "selfmedia/routine plan/每日行程记录.md",
+    "trips/202512_Prague.md",
     "2025-11-13.md",
     "long_term_plan.md",
-    "trips/202512_Prague.md",
     "心理咨询/202511.md",
     "心理咨询/202510.md",
     "German/Learn_begin.md",
@@ -222,7 +224,6 @@
     "selfmedia/SepVlog.md",
     "selfmedia/study with me.md",
     "selfmedia/Sep27dance.md",
-    "trips/Fjällräven Classic Germany20250924.md",
-    "户外社群/Alpensguide.md"
+    "trips/Fjällräven Classic Germany20250924.md"
   ]
 }

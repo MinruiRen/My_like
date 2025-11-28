@@ -35,8 +35,7 @@
               "title": "每日行程记录"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b54280d06192ab39",
+  "active": "db6a72c5731e27e4",
   "lastOpenFiles": [
+    "selfmedia/routine plan/每日行程记录.md",
     "C2404500",
     "~$睡眠日记_Sleep_Diary_美化版.xlsx",
     "3A8A2000",
     "2025-11-24.md",
-    "selfmedia/routine plan/每日行程记录.md",
     "5A24E330",
     "AD60E330",
     "睡眠日记_Sleep_Diary_美化版.xlsx",
@@ -212,7 +211,6 @@
     "photo/denfense/Camera_XHS_17607685456901040g008312ujruea5m0049v0fqd5m5j9hqtuiqo.jpg",
     "photo/denfense/Camera_XHS_17607681536641040g00831bppfkqv10105o13a54g915c20l0mp0.jpg",
     "photo/denfense/Camera_XHS_17607683237631040g2sg31dh8am3kgm6g5oqp5oim5o43s125t6g.jpg",
-    "photo/denfense",
     "photo/20240613photo.md",
     "2025-01-30.md",
     "interviewIDFA.md",

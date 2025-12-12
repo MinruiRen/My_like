@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "selfmedia/routine plan/每日行程记录.md",
+                "file": "photo/defense_photo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "每日行程记录"
+              "title": "defense_photo"
             }
           }
         ]
@@ -162,14 +162,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b54280d06192ab39",
+  "active": "8909bfb0b0f103a3",
   "lastOpenFiles": [
-    "AD69A400",
+    "selfmedia/routine plan/每日行程记录.md",
+    "AB6CF900",
+    "DF7BF900",
     "~$睡眠日记_Sleep_Diary_美化版.xlsx",
+    "AD69A400",
     "11AE2900",
     "D1111400",
     "photo/20251128_inside photo.md",
-    "selfmedia/routine plan/每日行程记录.md",
     "随笔/荷兰纪实.md",
     "B46C0E30",
     "463C0E30",
@@ -180,10 +182,7 @@
     "long_term_plan.md",
     "Pasted image 20250701122928.png",
     "trips/202512_Prague.md",
-    "C2404500",
-    "3A8A2000",
     "2025-11-24.md",
-    "5A24E330",
     "2025-11-18.md",
     "2025-11-13.md",
     "心理咨询/202511.md",

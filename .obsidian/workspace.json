@@ -35,7 +35,8 @@
               "title": "202512"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,12 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed305bdc0f83019",
+  "active": "0dcf21d50a3b96b2",
   "lastOpenFiles": [
+    "selfmedia/routine plan/每日行程记录.md",
     "心理咨询/202512.md",
     "心理咨询/202511.md",
     "心理咨询/202512",
-    "selfmedia/routine plan/每日行程记录.md",
     "52472000",
     "4B372000",
     "~$睡眠日记_Sleep_Diary_美化版.xlsx",

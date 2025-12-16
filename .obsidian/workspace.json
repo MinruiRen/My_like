@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "每日行程记录"
             }
+          },
+          {
+            "id": "0dcf21d50a3b96b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心理咨询/202512.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202512"
+            }
           }
         ]
       }
@@ -162,8 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b54280d06192ab39",
+  "active": "2ed305bdc0f83019",
   "lastOpenFiles": [
+    "心理咨询/202512.md",
+    "心理咨询/202511.md",
+    "心理咨询/202512",
+    "selfmedia/routine plan/每日行程记录.md",
     "52472000",
     "4B372000",
     "~$睡眠日记_Sleep_Diary_美化版.xlsx",
@@ -171,7 +189,6 @@
     "随笔/膨胀的自己.md",
     "photo/defense_photo.md",
     "photo/defense_photo.pdf",
-    "selfmedia/routine plan/每日行程记录.md",
     "AB6CF900",
     "DF7BF900",
     "AD69A400",
@@ -179,8 +196,6 @@
     "D1111400",
     "photo/20251128_inside photo.md",
     "随笔/荷兰纪实.md",
-    "B46C0E30",
-    "463C0E30",
     "随笔/从谁的角度想问题.md",
     "随笔/不嗔胜于嗔--平静之中有力量.md",
     "long_term_plan.md",
@@ -189,11 +204,9 @@
     "2025-11-24.md",
     "2025-11-18.md",
     "2025-11-13.md",
-    "心理咨询/202511.md",
     "心理咨询/202510.md",
     "German/Learn_begin.md",
     "German/Untitled.md",
-    "心理咨询/Untitled.md",
     "photo/20251015_autumnphoto.md",
     "photo/denfense/Camera_XHS_17607694252711040g2sg313hs8ortg28g48rs752vpg5dlr5tgvg.jpg",
     "photo/denfense/Camera_XHS_17607693781201040g00831gqja4cujq005nld29o085dc6hi5u0o.jpg",

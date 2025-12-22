@@ -167,6 +167,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,

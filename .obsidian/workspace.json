@@ -157,13 +157,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ba035b4333796c58",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "298c9a53d2405106",
+  "active": "b54280d06192ab39",
   "lastOpenFiles": [
-    "A8F1C410",
+    "C89CF000",
     "~$睡眠日记_Sleep_Diary_美化版.xlsx",
+    "A8F1C410",
     "5AC1B400",
     "心理咨询/202512.md",
     "selfmedia/routine plan/每日行程记录.md",
@@ -200,7 +211,6 @@
     "随笔/膨胀的自己.md",
     "photo/defense_photo.md",
     "photo/defense_photo.pdf",
-    "AB6CF900",
     "photo/20251128_inside photo.md",
     "随笔/荷兰纪实.md",
     "随笔/从谁的角度想问题.md",

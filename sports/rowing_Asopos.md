@@ -1,14 +1,4 @@
 
-Pixcie:
-Ben jij vastberaden om jouw vereniging in een goed daglicht te zetten door de perfecte plaatjes te schieten? Solliciteren kan tot vrijdag 5 september. Doe dit door te mailen naar media.asopos@gmail.com en gebouwen@asopos.nl. 
-Stuur maximaal 4 van jouw beste/leukste foto’s op met een korte motivatie en je Asopos CV! De sollicitaties zullen plaatsvinden op 10 en 12 september.
-
-ViCie: 
-
-De ViCie is de videocommissie van Asopos, die grote én kleine momenten vastlegt op beeld: van promovideo’s voor acties of gala’s tot dansjes op Paarspop of de winnende boot voorbij de finish. Daarnaast is er ook genoeg ruimte voor je eigen creatieve projectjes, kun je meedoen aan korte cursussen en leer je het hele filmproces kennen, van script schrijven tot editen. Ervaring is niet vereist, motivatie wel! 
-
-Twijfel je nog? Je kan altijd meelopen bij het scripten, editen of filmen bij een van onze projectjes! Stuur je sollicitatie naar Joris ‪(+31 6 81171657‬). En mail naar wedstrijd@asopos.nl
-
 Rowing item: 
 
 | Dutch                          | English                                                                            | Chinese            |
@@ -28,3 +18,74 @@ Rowing item:
 | “Slagklaar na nu”              | Sit ready after now                                                                | “现在后准备好划桨”         |
 | “Opgelet, we naderen een brug” | Attention, we are approaching a bridge                                             | “注意，我们接近桥梁”        |
 | “Palen in na nu”               | Pull in your oars after now                                                        | “现在后收桨”            |
+
+[[2026-01-05]] 
+
+Jan training
+500 m 2:05–2:10
+
+| Date   |                                                                                                                                                                                                                  |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Jan 4  | 10 min 轻松划（2:55–3:05）<br><br>技术 drills：<br><br>5 × 1 min 腿驱主导（低频 18 spm）<br><br>5 × 20 s 高速（>36 spm）<br>👉 不追功率，只追手速和节奏<br><br>拉伸 + 髋、踝放松                                                                        |
+| Jan 5  | - 热身 15 min（含 3 次 10 桨加速）<br>    <br>- **主项：**<br>    <br>    - 4 × 500 m<br>        <br>    - 配速：目标比赛配速 +5 s<br>        <br>    - 桨频：32–34 spm<br>        <br>    - 休息：4–5 min（完全恢复）<br>        <br>- 冷身 10 min |
+| Jan 6  | **速度上限**<br><br>- 热身<br>    <br>- 10 × 250 m<br>    <br>    - 配速：比目标比赛快 5–8 s<br>        <br>    - 桨频：36–38<br>        <br>    - 休息：2–2.5 min<br>        <br>- 核心稳定（10 min）                                      |
+| Jan 7  | **目标：不怕酸，不乱节奏**<br><br>- 40–50 min steady row<br>    <br>    - 2:55–3:05<br>        <br>    - 18–20 spm<br>        <br>- 技术 + 拉伸                                                                                 |
+| Jan 8  | **分段 500 m**<br><br>- 2 ×（300 m + 200 m）<br>    <br>    - 300 m：目标配速<br>        <br>    - 200 m：全力冲<br>        <br>- 组间休息 6–8 min<br>    <br>- 桨频可到 38–40（最后 200）                                                |
+| Jan 9  | **短冲 + 放松**<br><br>- 6 × 30 s on / 90 s off<br>    <br>    - on：非常快<br>        <br>    - off：完全放松<br>        <br>- 轻拉伸                                                                                           |
+| Jan 10 | - 3 × 250 m（比赛配速）<br>    <br>- 足够休息                                                                                                                                                                              |
+| Jan 11 | - 20–30 min very easy<br>    <br>- 2–3 次 10 桨启动练习                                                                                                                                                                |
+| Jan 12 | - **完全休息 或 15 min very easy**<br>    <br>- 心理预演（很重要）                                                                                                                                                             |
+| Jan 13 | - **前 10 桨：爆，不看屏幕**<br>    <br>- **中段 250 m：稳住频率，不追别人**<br>    <br>- **最后 150 m：只看“拉满—拉快”**                                                                                                                      |
+2–3 周训练 → 1 周比赛 → 1 周恢复/调整
+
+![[Pasted image 20260105134610.png]]![[Pasted image 20260105134728.png]]
+![[Pasted image 20260105134753.png]]
+
+### 每周结构（非比赛周）
+
+- **2 次水上技术 + 队艇配合**
+- **1 次划船机（阈值 / 乳酸）**
+- **1 次力量（核心 + 单侧稳定）**
+- **1 次低强度恢复**
+👉 **重点**：
+- 单侧力量不对称 → **臀中肌、腹斜肌、背阔**
+- 技术优先级 > 心肺
+每周结构（非比赛周）
+
+- **2 次水上技术 + 队艇配合**
+- **1 次划船机（阈值 / 乳酸）**
+
+| 内容   | 设定                                  |
+| ---- | ----------------------------------- |
+| 热身   | 10–15 min（含 3 次 10 桨加速）             |
+| 主项   | **3 × 12–15 min**                   |
+| 配速   | **2k 配速 + 15–20 s**（你现在≈ 2:55–3:00） |
+| 桨频   | 22–24 spm                           |
+| 组间休息 | 3–4 min                             |
+| 冷身   | 10 min easy                         |
+
+- **1 次力量（核心 + 单侧稳定）**
+
+| 动作           | 组数 × 次数     | 重点    |
+| ------------ | ----------- | ----- |
+| 单腿硬拉         | 3 × 6–8 / 边 | 臀 + 稳 |
+| Pallof press | 3 × 10–12   | 抗旋转   |
+| 单侧划船         | 3 × 8–10    | 背阔    |
+| Side plank   | 3 × 30–45 s | 侧链    |
+| 单腿臀桥         | 2–3 × 10    | 髋控制   |
+
+- **1 次低强度恢复**
+	- 强度日后
+	- 比赛周  
+	- 或你感觉“脑子很累”的那天
+
+|项目|设定|
+|---|---|
+|时间|40–60 min|
+|配速|**2:55–3:05 /500 m**|
+|桨频|18–20 spm|
+|心率|Zone 1–2|
+|专注点|动作顺序、放松|
+
+
+

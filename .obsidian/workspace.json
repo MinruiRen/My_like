@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "20260116Norway"
             }
+          },
+          {
+            "id": "8a854c3d0e626904",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1960eae5b71276cf",
+  "active": "8a854c3d0e626904",
   "lastOpenFiles": [
     "Pasted image 20260112164637.png",
     "Pasted image 20260112160727.png",

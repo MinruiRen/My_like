@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "202601"
             }
+          },
+          {
+            "id": "f4d65f25a19e26a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trips/20260130Paris.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260130Paris"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,8 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3808207b2599ae52",
+  "active": "f4d65f25a19e26a6",
   "lastOpenFiles": [
+    "trips/Paris/凡尔赛马.pdf",
+    "trips/Paris/凡尔赛马.pdf.crdownload",
+    "trips/Paris/2026橘园.pdf",
+    "trips/Paris/2026橘园.pdf.crdownload",
     "心理咨询/202601.md",
     "selfmedia/routine plan/每日行程记录.md",
     "trips/20260116Norway.md",
@@ -202,12 +220,9 @@
     "F8956100",
     "睡眠日记_Sleep_Diary1.xlsx",
     "C1705920",
-    "~$睡眠日记_Sleep_Diary.xlsx",
-    "23544420",
     "Pasted image 20260112164637.png",
     "Pasted image 20260112160727.png",
     "trips/20260130Paris.md",
-    "3EC21020",
     "trips/202512_Prague.md",
     "a8d7fbc54ee68320c23c2efd62cdf872.png",
     "trips/202605_Norway.md",
@@ -236,7 +251,6 @@
     "German/Learn_begin.md",
     "German/Untitled.md",
     "photo/20251015_autumnphoto.md",
-    "photo/denfense/Camera_XHS_17607694252711040g2sg313hs8ortg28g48rs752vpg5dlr5tgvg.jpg",
-    "photo/20240613photo.md"
+    "photo/denfense/Camera_XHS_17607694252711040g2sg313hs8ortg28g48rs752vpg5dlr5tgvg.jpg"
   ]
 }

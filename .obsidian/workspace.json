@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "每日行程记录"
             }
+          },
+          {
+            "id": "9947a443641ec63b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trips/20260130Paris.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260130Paris"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,14 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b54280d06192ab39",
+  "active": "9947a443641ec63b",
   "lastOpenFiles": [
+    "selfmedia/routine plan/每日行程记录.md",
     "5F1B1000",
     "~$睡眠日记_Sleep_Diary1.xlsx",
     "D2884400",
     "selfmedia/study with me.md",
     "selfmedia/0916studywithme.md",
-    "selfmedia/routine plan/每日行程记录.md",
     "心理咨询/202601.md",
     "F4F64000",
     "A9603000",
@@ -192,7 +207,6 @@
     "6F341B00",
     "trips/20260130Paris.md",
     "trips/Paris/凡尔赛马.pdf",
-    "trips/Paris/凡尔赛马.pdf.crdownload",
     "trips/20260116Norway.md",
     "Pasted image 20260112164637.png",
     "Pasted image 20260112160727.png",

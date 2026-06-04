@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "9b6e78e1a674a327",
+            "id": "d518c3f97273827f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "aadaefc8ab862ad1",
@@ -190,9 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6e78e1a674a327",
+  "active": "d518c3f97273827f",
   "lastOpenFiles": [
     "selfmedia/routine plan/每日行程记录.md",
+    "随笔/从谁的角度想问题.md",
     "blood.csv",
     "随笔/膨胀的自己.md",
     "随笔/关于虚无感.md",
@@ -235,7 +237,6 @@
     "photo/defense_photo.md",
     "photo/20251128_inside photo.md",
     "随笔/荷兰纪实.md",
-    "随笔/从谁的角度想问题.md",
     "Pasted image 20250701122928.png"
   ]
 }
